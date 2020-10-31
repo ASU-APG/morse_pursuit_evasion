@@ -2,7 +2,7 @@
 <hr>
 - OS: Ubuntu 16/18 <br/>
 - Language: Python <br/>
-- Dependencies: <br/>
+- Dependencies: <br/>  
 
 1) https://www.openrobots.org/morse/doc/stable/user/installation.html (MORSE Simulator) <br/>
 2) Using anaconda/miniconda to install all dependencies: `conda env create -f env.yml` <br/>
@@ -15,6 +15,6 @@
 `goal_id` - Initial goal location of the evader <br/>
 - In the root folder, `run_pursuer.py` change the `pursuer_type` variable to use different pursuers. <br/>
    `0-oracle; 1-camera_only; 2-kalman; 3-lstm`
-- In the root folder, `python run_simulation.py` will run `max_runs` experiments.
+- In the root folder, `python run_simulation.py` will run with `max_runs` experiments.
 
 
