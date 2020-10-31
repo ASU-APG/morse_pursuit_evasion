@@ -120,9 +120,7 @@ class MorseEnv:
 
     pursuer_type = 2
     
-    if pursuer_type == 0: #--------------------------------------------ground truth
-        is_camera_based, use_pred, pred_type = False, False, 0
-    elif pursuer_type == 1: #------------------------------------------camera only
+    if pursuer_type == 1: #------------------------------------------camera only
         is_camera_based, use_pred, pred_type = True, False, 0        
     elif pursuer_type == 2: #------------------------------------------kalman filtering
         is_camera_based, use_pred, pred_type = False, True, 0
