@@ -1,0 +1,8 @@
+__pycache__/*
+*.pyc
+neo_results
+*.png
+analysis.py
+.idea/
+models
+pred_models
