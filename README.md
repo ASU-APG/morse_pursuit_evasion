@@ -14,7 +14,7 @@
 `evader_spawn, evader_ori` - Spawn location and orientation of the evader <br/>
 `goal_id` - Initial goal location of the evader <br/>
 - In the root folder, `run_pursuer.py` change the `pursuer_type` variable to use different pursuers. <br/>
-   `0-oracle; 1-camera_only; 2-kalman; 3-lstm`
+   `1-camera_only; 2-kalman; 3-lstm`
 - In the root folder, `python run_simulation.py` will run with `max_runs` experiments.
 
 
