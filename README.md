@@ -18,4 +18,4 @@
 - In the root folder, `python run_simulation.py` will run with `max_runs` experiments.
 
 
-Submitted to ICRA-2021
+Submitted to IROS-2021
