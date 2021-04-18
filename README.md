@@ -1,4 +1,7 @@
 # Online Prediction for Vision-based Active Pursuit using a Domain Agnostic Offline Motion Model 
+
+![theme image](https://github.com/sumedhgodbole/portfolio/blob/master/images/introduction_overview.png)
+
 <hr>
 - OS: Ubuntu 16/18 <br/>
 - Language: Python <br/>
