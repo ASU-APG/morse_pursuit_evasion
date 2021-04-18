@@ -25,4 +25,4 @@
 Submitted to IROS-2021
 
 ### Demo Video 
-[![Alt text](https://img.youtube.com/vi/LWRJg2nnG9Y/0.jpg)](https://www.youtube.com/watch?v=LWRJg2nnG9Y)
+[![Demo Video Youtube](https://img.youtube.com/vi/LWRJg2nnG9Y/0.jpg)](https://www.youtube.com/watch?v=LWRJg2nnG9Y)
