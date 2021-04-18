@@ -1,3 +1,4 @@
+
 # Online Prediction for Vision-based Active Pursuit using a Domain Agnostic Offline Motion Model 
 
 ![theme image](https://github.com/sumedhgodbole/portfolio/blob/master/images/overview_carla_paper_compressed.png)
@@ -22,3 +23,6 @@
 
 
 Submitted to IROS-2021
+
+### Demo Video 
+[![Alt text](https://img.youtube.com/vi/LWRJg2nnG9Y/0.jpg)](https://www.youtube.com/watch?v=LWRJg2nnG9Y)
